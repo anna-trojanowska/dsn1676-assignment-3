@@ -57,7 +57,7 @@ body {
 
 .spaceship {
     position: absolute;
-    top: 650px;
+    top: 500px;
     left: 50%;
     -webkit-animation: move-around 5s ease-in-out infinite alternate;
     animation: move-around 5s ease-in-out infinite alternate;
